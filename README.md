@@ -1,5 +1,5 @@
 # BetterProgrammerTask
-Coding tasks from a Java hands-on certification
+Coding tasks from a Java hands-on certification.
 Link to certificate : http://www.betterprogrammer.com/certificate/BP1T3HNN8
 
 Task 1
